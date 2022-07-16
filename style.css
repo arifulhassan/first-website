@@ -4,3 +4,8 @@ h1{
 h2{
     background-color: blanchedalmond;
 }
+img{
+    height: 200px;
+    width: 100px;
+    border-radius: 50px;
+}
